@@ -3,6 +3,7 @@
 
   const randomNumber = Math.floor(Math.random() * 10 + 1);
 //   console.log(randomNumber);
+     console.log("Welcpme to number Guessing Game");
 
   const numbers = await inquirer.prompt([
       {
